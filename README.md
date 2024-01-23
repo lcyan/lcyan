@@ -3,16 +3,16 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=Math.random()" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-snake-contrib/github-contribution-grid-snake.svg?v=Math.random()" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
   <!-- profile-3d-contrib 3D贡献图-->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-night-rainbow.svg?v=Math.random()" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-gitblock.svg?v=Math.random()" />
+  <img src="https://cdn.jsdelivr.net/gh/lcyan/lcyan/profile-3d-contrib/profile-night-rainbow.svg?v=Math.random()" />
 </picture>
 
 </div>
