@@ -20,7 +20,7 @@
 
   <img src="https://skillicons.dev/icons?i=java,docker,jenkins,kafka,mysql,nginx,py,redis,vscode,idea,git" /><br>
 
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/ed8a2c3d423b4f8e0ba1ffb2a9ab0f152cbe51ac.svg" />
+  <img width="120%" src="https://repobeats.axiom.co/api/embed/efeade1901a266588c4dd4b425813691cd2ca870.svg" />
 
 </div>
 
